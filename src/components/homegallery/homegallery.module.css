@@ -1,0 +1,22 @@
+.image {
+    position: absolute;
+    right: 92px;
+    top: 248px;
+    margin-right: 92px;
+  }
+
+.imagedown {
+    position: absolute;
+    top: 248;
+    right: 92px;
+  }
+
+
+.imagehight {
+    width: 512px; 
+    height: auto;
+  }
+
+.imagehight:hover {
+    transform: scale(1.5);
+  }
